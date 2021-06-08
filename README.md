@@ -5,7 +5,7 @@
 - CROSSDA, Marijana Glavica, Irena Kranjec <br>
 - EKKE, Dimitra Kondyli, Apostolos Linardis <br>
 - FORS, Brian Kleiner, Emilie Morgan de Paula <br>
-- FSD, Helena Laaksonen, helena.laaksonen@tuni.fi <br>
+- FSD, Helena Laaksonen <br>
 - SND, Ilze Lace <br>
 - TARKI, Bela Janky <br>
 - UL,FDV/ADP, Janez Stebe, Sonja.Bezjak <br>
