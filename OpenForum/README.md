@@ -33,7 +33,6 @@ Matt Cannon / Caroline Sutton, Open Research, Taylor & Francis<br>
   <p>15:00-15:10	Break</p>
   <p>15:10-15:25	Conclusions from 2020 and planned Journal Outreach Activities for 2021-22: TBC</p>
   <p>15:25-15:50	Open Discussion 2021-22 “Working together to tackle challenges and find solutions”</p>
-  <p>15:50-16:00	Announcement of next Journals Outreach events and Closure, S. Alvanides, GESIS</p>
-</body>
-</html>
+  <p>15:50-16:00	Announcement of next Journals Outreach event and Closure, S. Alvanides, GESIS</p>
+
 
