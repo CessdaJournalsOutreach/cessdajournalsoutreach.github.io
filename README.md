@@ -2,16 +2,16 @@
 
 
 ## Lead delivery partner 
-GESIS, Serafeim Alvanides, S.Alvanides@gesis.org
+- GESIS, Serafeim Alvanides, S.Alvanides@gesis.org
 
 ## Delivery partners 
-CROSSDA, Marijana Glavica, mglavica@ffzg.hr; Irena Kranjec, ikranjec@ffzg.hr
-EKKE, Dimitra Kondyli, dkondyli@ekke.gr; Apostolos Linardis, alinardis@ekke.gr
-FORS, Brian Kleiner, brian.kleiner@fors.unil.ch; Emilie Morgan de Paula, emilie.morgandepaula@fors.unil.ch
-FSD, Helena Laaksonen, helena.laaksonen@tuni.fi 
-SND, Ilze Lace,  ilze.lace@gu.se 
-TARKI, Bela Janky, janky@tarki.hu 
-UL,FDV/ADP, Janez.Stebe@fdv.uni-lj.si; Sonja.Bezjak@fdv.uni-lj.si
+- CROSSDA, Marijana Glavica, mglavica@ffzg.hr; Irena Kranjec, ikranjec@ffzg.hr
+- EKKE, Dimitra Kondyli, dkondyli@ekke.gr; Apostolos Linardis, alinardis@ekke.gr
+- FORS, Brian Kleiner, brian.kleiner@fors.unil.ch; Emilie Morgan de Paula, emilie.morgandepaula@fors.unil.ch
+- FSD, Helena Laaksonen, helena.laaksonen@tuni.fi 
+- SND, Ilze Lace,  ilze.lace@gu.se 
+- TARKI, Bela Janky, janky@tarki.hu 
+- UL,FDV/ADP, Janez.Stebe@fdv.uni-lj.si; Sonja.Bezjak@fdv.uni-lj.si
 
 ```markdown
 # Header 1
