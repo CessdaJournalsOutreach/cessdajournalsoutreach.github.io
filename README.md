@@ -1,14 +1,14 @@
 ## CESSDA Agenda 2021-22 Training Task 2: Journals Outreach
 
 ### Delivery partners 
-- GESIS, Serafeim Alvanides, S.Alvanides@gesis.org (Leading partner)<br>
-- CROSSDA, Marijana Glavica, mglavica@ffzg.hr; Irena Kranjec, ikranjec@ffzg.hr <br>
-- EKKE, Dimitra Kondyli, dkondyli@ekke.gr; Apostolos Linardis, alinardis@ekke.gr <br>
-- FORS, Brian Kleiner, brian.kleiner@fors.unil.ch; Emilie Morgan de Paula, emilie.morgandepaula@fors.unil.ch <br>
+- GESIS, Serafeim Alvanides (Leading partner) <br>
+- CROSSDA, Marijana Glavica, Irena Kranjec <br>
+- EKKE, Dimitra Kondyli, Apostolos Linardis <br>
+- FORS, Brian Kleiner, Emilie Morgan de Paula <br>
 - FSD, Helena Laaksonen, helena.laaksonen@tuni.fi <br>
-- SND, Ilze Lace,  ilze.lace@gu.se <br>
-- TARKI, Bela Janky, janky@tarki.hu <br>
-- UL,FDV/ADP, Janez.Stebe@fdv.uni-lj.si; Sonja.Bezjak@fdv.uni-lj.si <br>
+- SND, Ilze Lace <br>
+- TARKI, Bela Janky <br>
+- UL,FDV/ADP, Janez Stebe, Sonja.Bezjak <br>
 
 <!--
 ```markdown
