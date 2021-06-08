@@ -12,8 +12,8 @@
   <p>15:10 Conclusions and Discussion: “Working together to tackle challenges and find solutions”</p>
   <h3>Registration</h3>
   <p>There are limited spaces available and we encourage you to register early to avoid disappointment:<br>
-  <a href="https://us02web.zoom.us/meeting/register/tZctdOyhqT4tH9DubmQ3qKwI8_s1lxkQ4xhx" target="_blank">Registration form</a>
-  <p>Please note that this event (including questions and responses) will be will be recorded. </p>
+  <a href="https://us02web.zoom.us/meeting/register/tZctdOyhqT4tH9DubmQ3qKwI8_s1lxkQ4xhx" target="_blank">Registration form</a><br>
+  Please note that this event (including questions and responses) will be will be recorded.<br>
   <h3>Draft Programme (subject to minor changes)</h3>
   <p>13:00-13:05	Welcome and logistics: Serafeim Alvanides, GESIS</p>
   <p>13:05-13:15	Context: Helena Laaksonen, Director Finnish Social Science Data Archive</p>
