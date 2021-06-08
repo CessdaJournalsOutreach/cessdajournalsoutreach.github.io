@@ -12,7 +12,7 @@
 
 ### Activities and Events
 Open forum: Challenges of sharing data linked to publications <br>
-Wednesday 30th June 2021, 13:00-16:00 CET online (zoom) <br>
+_Wednesday 30th June 2021, 13:00-16:00 CET online (zoom)_ <br>
 https://cessdajournalsoutreach.github.io/OpenForum <br>
 
 <!--
