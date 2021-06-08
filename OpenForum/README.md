@@ -25,9 +25,9 @@ Alexandros Afouxenidis, Greek Review for Social Research, Greece<br>
 Rafael Lalive, Swiss Journal of Economics and Statistics, Switzerland<br>
 Simon Heuberger, Replicator for the journal Political Analysis, Germany<br>
 Kostas Gemenis, Max Planck Institute for the Study of Societies, Germany<br>
-Denis Vlašiček, CROSSDA/University of Zagreb, Faculty of Humanities & Social Sciences, Croatia<br>
+Denis Vlašiček, CROSSDA / University of Zagreb, Croatia<br>
 Ilze Lace, Swedish National Data Service (SND), Sweden<br>
-Cristina Magder, Data Collections Development Manager, UK Data Service, UK<br>
+Cristina Magder, Data Collections Development Manager, UK Data Service<br>
 Stefan Einarson / Wendel Scholma / Jason Prevost, Acquisitions Editors, BRILL publishers<br>
 Matt Cannon / Caroline Sutton, Open Research, Taylor & Francis<br>
   <p>15:00-15:10	Break</p>
