@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>.</title>
+    <title>CESSDA</title>
   </head>
   <body>
   <h2>CESSDA Journals Outreach Open forum: "Challenges of sharing data linked to publications"</h2>
