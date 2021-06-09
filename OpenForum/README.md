@@ -43,4 +43,4 @@
   <i>15:00-15:10	Break</i> <br>
   15:10-15:25	Conclusions from 2020 and planned Journal Outreach Activities for 2021-22: TBC <br>
   15:25-15:50	Open Discussion 2021-22 “Working together to tackle challenges and find solutions” <br>
-  15:50-16:00	Announcement of next Journals Outreach event and Closure, S. Alvanides, GESIS <br>
+  15:50-16:00	Planning the next J.Outreach event and Closure, S. Alvanides, GESIS <br>
