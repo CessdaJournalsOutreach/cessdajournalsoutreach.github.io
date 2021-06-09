@@ -25,8 +25,7 @@
 <ul>
     Ilze Lace, Swedish National Data Service (SND), Sweden <br>
     <a href="mailto:dcmagd@essex.ac.uk">Cristina Magder</a>, Data Collections Development Manager,
-        <a href="https://www.data-archive.ac.uk" target="_blank">UK Data Archive</a>/
-         <a href="https://www.ukdataservice.ac.uk" target="_blank">UK Data Service</a> <br>
+        <a href="https://www.data-archive.ac.uk" target="_blank">UK Data Archive</a>/<a href="https://www.ukdataservice.ac.uk" target="_blank">UK Data Service</a> <br>
     <a href="mailto:afouxenidis@ekke.gr">Alex Afouxenidis</a>, EKKE & Greek Review for Social Research, Greece <br>
     Rafael Lalive, University of Lausanne & Swiss Journal of Economics & Statistics, Switzerland <br>
     Kai-Uwe Schnapp, University of Hamburg & Politische Vierteljahresschrift (Political Science Quarterly), Germany <br>
