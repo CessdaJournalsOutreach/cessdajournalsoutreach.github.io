@@ -20,21 +20,22 @@
   13:15-13:30 	Journals Outreach 2020 Activities and Findings: TBC <br>
   13:30-13:50	Q&As from 2020 / Moderated discussion: TBC <br>
   <i>13:50-14:00	Break</i>
-  <p>14:00-15:00  Panel “Challenges of data sharing from different perspectives” Chair: Brian Kleiner, FORS, Switzerland<br>
+  <p>14:00-15:00  Panel “Challenges of data sharing from different perspectives” Chair: Brian Kleiner, FORS, Switzerland
+
 <ul style="list-style-type:square">
     <li>Ilze Lace, Swedish National Data Service (SND), Sweden <br>
     <li><a href="mailto:dcmagd@essex.ac.uk">Cristina Magder</a>, Data Collections Development Manager,
-        <a href="https://www.data-archive.ac.uk" target="_blank">UK Data Archive</a>/<a href="https://www.ukdataservice.ac.uk" target="_blank">UK Data Service</a> <br>
-    <a href="mailto:afouxenidis@ekke.gr">Alex Afouxenidis</a>, EKKE & Greek Review for Social Research, Greece <br>
-    Rafael Lalive, University of Lausanne & Swiss Journal of Economics & Statistics, Switzerland <br>
-    Kai-Uwe Schnapp, University of Hamburg & Politische Vierteljahresschrift (Political Science Quarterly), Germany <br>
-    Simon Heuberger, Technical University of Munich & Replicator for Political Analysis, Germany <br>
-    Kostas Gemenis, Max Planck Institute for the Study of Societies, Germany <br>
-    <a href="mailto:dvlasice@ffzg.hr">Denis Vlašiček</a>, CROSSDA / University of Zagreb, Croatia <br>
-    Holger Döring, University of Bremen, Germany <br>
-    S.Einarson / W.Scholma / J.Prevost, Acquisitions Editors, BRILL publishers <br>
-    Matt Cannon / Caroline Sutton, Open Research, Taylor & Francis <br>
-    Graham Smith, Research Data, Springer/Nature <br>
+    <li><a href="https://www.data-archive.ac.uk" target="_blank">UK Data Archive</a>/<a href="https://www.ukdataservice.ac.uk" target="_blank">UK Data Service</a> <br>
+    <li><a href="mailto:afouxenidis@ekke.gr">Alex Afouxenidis</a>, EKKE & Greek Review for Social Research, Greece <br>
+    <li>Rafael Lalive, University of Lausanne & Swiss Journal of Economics & Statistics, Switzerland <br>
+    <li>Kai-Uwe Schnapp, University of Hamburg & Politische Vierteljahresschrift (Political Science Quarterly), Germany <br>
+    <li>Simon Heuberger, Technical University of Munich & Replicator for Political Analysis, Germany <br>
+    <li>Kostas Gemenis, Max Planck Institute for the Study of Societies, Germany <br>
+    <li><a href="mailto:dvlasice@ffzg.hr">Denis Vlašiček</a>, CROSSDA / University of Zagreb, Croatia <br>
+    <li>Holger Döring, University of Bremen, Germany <br>
+    <li>S.Einarson / W.Scholma / J.Prevost, Acquisitions Editors, Brill Publishing <br>
+    <li>Matt Cannon / Caroline Sutton, Open Research, Taylor & Francis <br>
+    <li>Graham Smith, Research Data, Springer Nature Group <br>
 </ul>
     
   <i>15:00-15:10	Break</i> <br>
