@@ -24,7 +24,9 @@
 
 <ul>
     Ilze Lace, Swedish National Data Service (SND), Sweden <br>
-    Cristina Magder, Data Collections Development Manager, UK Data Service <br>
+    <a href="mailto:dcmagd@essex.ac.uk">Cristina Magder</a>, Data Collections Development Manager,
+        <a href="https://www.data-archive.ac.uk" target="_blank">UK Data Archive</a>/
+         <a href="https://www.ukdataservice.ac.uk" target="_blank">UK Data Service</a> <br>
     <a href="mailto:afouxenidis@ekke.gr">Alex Afouxenidis</a>, EKKE & Greek Review for Social Research, Greece <br>
     Rafael Lalive, University of Lausanne & Swiss Journal of Economics & Statistics, Switzerland <br>
     Kai-Uwe Schnapp, University of Hamburg & Politische Vierteljahresschrift (Political Science Quarterly), Germany <br>
@@ -41,5 +43,3 @@
   15:10-15:25	Conclusions from 2020 and planned Journal Outreach Activities for 2021-22: TBC <br>
   15:25-15:50	Open Discussion 2021-22 “Working together to tackle challenges and find solutions” <br>
   15:50-16:00	Announcement of next Journals Outreach event and Closure, S. Alvanides, GESIS <br>
-
-
