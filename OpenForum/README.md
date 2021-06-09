@@ -11,17 +11,19 @@
   13:00 CET   Introduction to the CESSDA “Journals Outreach” activities and findings from 2020<br>
   14:00 CET   Expert Panel: “What are the challenges of data sharing from different perspectives?”<br>
   15:10 CET   Conclusions and Discussion: “Working together to tackle challenges and find solutions”<br>
+
   <h3>Registration</h3>
   <p>There are limited spaces available and we encourage you to register early to avoid disappointment: <a href="https://us02web.zoom.us/meeting/register/tZctdOyhqT4tH9DubmQ3qKwI8_s1lxkQ4xhx" target="_blank"> Registration form </a> 
   <br>Please note that this event (including questions and responses) will be recorded.<br>
+    
   <h3>Draft Programme <i>(subject to minor changes)</i></h3>
   <p>13:00-13:05	Welcome and logistics: Serafeim Alvanides, GESIS <br>
   13:05-13:15	Context: Helena Laaksonen, Director Finnish Social Science Data Archive <br>
   13:15-13:30 	Journals Outreach 2020 Activities and Findings: TBC <br>
   13:30-13:50	Q&As from 2020 / Moderated discussion: TBC <br>
   <i>13:50-14:00	Break</i>
+    
   <p>14:00-15:00  Panel “Challenges of data sharing from different perspectives” <i>Chair: Brian Kleiner, FORS, Switzerland</i>
-
 <ul style="list-style-type:square">
     <li>Ilze Lace, Swedish National Data Service (SND), Sweden <br>
     <li><a href="mailto:dcmagd@essex.ac.uk">Cristina Magder</a>, Data Collections Development Manager,
@@ -36,6 +38,8 @@
     <li>S.Einarson / W.Scholma / J.Prevost, Acquisitions Editors, Brill Publishing <br>
     <li>Matt Cannon / Caroline Sutton, Open Research, Taylor & Francis <br>
     <li>Graham Smith, Research Data, Springer Nature Group <br>
+</li>
+</ul>
 <p>  
   <i>15:00-15:10	Break</i> <br>
   15:10-15:25	Conclusions from 2020 and planned Journal Outreach Activities for 2021-22: TBC <br>
