@@ -33,7 +33,7 @@
     <b>Kai-Uwe Schnapp</b>, University of Hamburg & Politische Vierteljahresschrift (Political Science Quarterly), Germany <br>
     <b>Simon Heuberger</b>, Technical University of Munich & Replicator for Political Analysis, Germany <br>
     <b>Kostas Gemenis</b>, Max Planck Institute for the Study of Societies, Germany <br>
-    <b><a href="mailto:dvlasice@ffzg.hr">Denis Vlašiček</a><b>, CROSSDA / University of Zagreb, Croatia <br>
+    <b><a href="mailto:dvlasice@ffzg.hr">Denis Vlašiček</a></b>, CROSSDA / University of Zagreb, Croatia <br>
     <b>Holger Döring</b>, University of Bremen, Germany <br>
     <b>S.Einarson / W.Scholma / J.Prevost</b>, Acquisitions Editors, Brill Publishing <br>
     <b>Matt Cannon / Caroline Sutton</b>, Open Research, Taylor & Francis <br>
