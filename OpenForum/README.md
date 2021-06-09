@@ -20,7 +20,7 @@
   13:15-13:30 	Journals Outreach 2020 Activities and Findings: TBC <br>
   13:30-13:50	Q&As from 2020 / Moderated discussion: TBC <br>
   <i>13:50-14:00	Break</i>
-  <p>14:00-15:00  Panel “Challenges of data sharing from different perspectives” Chair: Brian Kleiner, FORS, Switzerland
+  <p>14:00-15:00  Panel “Challenges of data sharing from different perspectives” <i>Chair: Brian Kleiner, FORS, Switzerland</i>
 
 <ul style="list-style-type:square">
     <li>Ilze Lace, Swedish National Data Service (SND), Sweden <br>
@@ -36,8 +36,7 @@
     <li>S.Einarson / W.Scholma / J.Prevost, Acquisitions Editors, Brill Publishing <br>
     <li>Matt Cannon / Caroline Sutton, Open Research, Taylor & Francis <br>
     <li>Graham Smith, Research Data, Springer Nature Group <br>
-</ul>
-    
+<p>  
   <i>15:00-15:10	Break</i> <br>
   15:10-15:25	Conclusions from 2020 and planned Journal Outreach Activities for 2021-22: TBC <br>
   15:25-15:50	Open Discussion 2021-22 “Working together to tackle challenges and find solutions” <br>
