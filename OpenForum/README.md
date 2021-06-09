@@ -38,7 +38,7 @@
     <b>S.Einarson / W.Scholma / J.Prevost</b>, Acquisitions Editors, Brill Publishing <br>
     <b>Matt Cannon / Caroline Sutton</b>, Open Research, Taylor & Francis <br>
     <b>Graham Smith</b>, Research Data, Springer Nature Group <br>
-  <ul>
+  </ul>
   <p>
   <i>15:00-15:10	Break</i> <br>
   15:10-15:25	Conclusions from 2020 and planned Journal Outreach Activities for 2021-22: TBC <br>
