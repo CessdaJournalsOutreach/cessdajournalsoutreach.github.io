@@ -13,7 +13,7 @@
   15:10 CET   Conclusions and Discussion: “Working together to tackle challenges and find solutions”<br>
   <h3>Registration</h3>
   <p>There are limited spaces available and we encourage you to register early to avoid disappointment: <a href="https://us02web.zoom.us/meeting/register/tZctdOyhqT4tH9DubmQ3qKwI8_s1lxkQ4xhx" target="_blank"> Registration form </a> 
-  <br>Please note that this event (including questions and responses) will be will be recorded.<br>
+  <br>Please note that this event (including questions and responses) will be recorded.<br>
   <h3>Draft Programme <i>(subject to minor changes)</i></h3>
   <p>13:00-13:05	Welcome and logistics: Serafeim Alvanides, GESIS</p>
   <p>13:05-13:15	Context: Helena Laaksonen, Director Finnish Social Science Data Archive</p>
@@ -28,7 +28,7 @@ Alexandros Afouxenidis, Greek Review for Social Research, Greece <br>
 Rafael Lalive, Swiss Journal of Economics and Statistics, Switzerland <br>
 Simon Heuberger, Technical University of Munich, Germany <br>
 Kostas Gemenis, Max Planck Institute for the Study of Societies, Germany <br>
-Denis Vlašiček, CROSSDA / University of Zagreb, Croatia <br>
+<a href="mailto:dvlasice@ffzg.hr">Denis Vlašiček</a>, CROSSDA / University of Zagreb, Croatia <br>
 Holger Döring, University of Bremen, Germany <br>
 S.Einarson / W.Scholma / J.Prevost, Acquisitions Editors, BRILL publishers <br>
 Matt Cannon / Caroline Sutton, Open Research, Taylor & Francis <br>
