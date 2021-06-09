@@ -23,7 +23,7 @@
   13:30-13:50	Q&As from 2020 / Moderated discussion: TBC <br>
   <i>13:50-14:00	Break</i>
     
-  <p>14:00-15:00  Panel “Challenges of data sharing from different perspectives” <i>Chair: Brian Kleiner, FORS, Switzerland</i>
+  <p>14:00-15:00  Panel “Challenges of data sharing from different perspectives” <i>Chair: <b>Brian Kleiner</b>, FORS, Switzerland</i>
   <ul>
     <b>Ilze Lace</b>, Swedish National Data Service (SND), Sweden <br>
     <b><a href="mailto:dcmagd@essex.ac.uk">Cristina Magder</a></b>, Data Collections Development Manager,
@@ -33,7 +33,7 @@
     <b>Kai-Uwe Schnapp</b>, University of Hamburg & Politische Vierteljahresschrift (Political Science Quarterly), Germany <br>
     <b>Simon Heuberger</b>, Technical University of Munich & Replicator for Political Analysis, Germany <br>
     <b>Kostas Gemenis</b>, Max Planck Institute for the Study of Societies, Germany <br>
-      <a href="mailto:dvlasice@ffzg.hr">Denis Vlašiček</a>, CROSSDA / University of Zagreb, Croatia <br>
+    <b><a href="mailto:dvlasice@ffzg.hr">Denis Vlašiček</a><b>, CROSSDA / University of Zagreb, Croatia <br>
     <b>Holger Döring</b>, University of Bremen, Germany <br>
     <b>S.Einarson / W.Scholma / J.Prevost</b>, Acquisitions Editors, Brill Publishing <br>
     <b>Matt Cannon / Caroline Sutton</b>, Open Research, Taylor & Francis <br>
