@@ -21,6 +21,7 @@
   <p>13:30-13:50	Q&As from 2020 / Moderated discussion: TBC</p>
   <p>13:50-14:00	Break</p>
   <p>14:00-15:00  Panel discussion “Challenges of data sharing from different perspectives”<br>
+<ul>
 Ilze Lace, Swedish National Data Service (SND), Sweden <br>
 Cristina Magder, Data Collections Development Manager, UK Data Service <br>
 Alexandros Afouxenidis, Greek Review for Social Research, Greece <br>
@@ -32,6 +33,7 @@ Holger Döring, University of Bremen, Germany <br>
 Stefan Einarson / Wendel Scholma / Jason Prevost, Acquisitions Editors, BRILL publishers <br>
 Matt Cannon / Caroline Sutton, Open Research, Taylor & Francis <br>
 Graham Smith, Research Data, Springer/Nature <br>
+</ul>
   <p>15:00-15:10	Break</p>
   <p>15:10-15:25	Conclusions from 2020 and planned Journal Outreach Activities for 2021-22: TBC</p>
   <p>15:25-15:50	Open Discussion 2021-22 “Working together to tackle challenges and find solutions”</p>
