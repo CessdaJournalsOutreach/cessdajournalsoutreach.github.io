@@ -25,19 +25,19 @@
     
   <p>14:00-15:00  Panel “Challenges of data sharing from different perspectives” <i>Chair: Brian Kleiner, FORS, Switzerland</i>
   <ul>
-    Ilze Lace, Swedish National Data Service (SND), Sweden <br>
-    <a href="mailto:dcmagd@essex.ac.uk">Cristina Magder</a>, Data Collections Development Manager,
+    <b>Ilze Lace</b>, Swedish National Data Service (SND), Sweden <br>
+    <b><a href="mailto:dcmagd@essex.ac.uk">Cristina Magder</a></b>, Data Collections Development Manager,
       <a href="https://www.data-archive.ac.uk" target="_blank">UK Data Archive</a>/<a href="https://www.ukdataservice.ac.uk" target="_blank">UK Data Service</a> <br>
-    <a href="mailto:afouxenidis@ekke.gr">Alex Afouxenidis</a>, EKKE & Greek Review for Social Research, Greece <br>
-    Rafael Lalive, University of Lausanne & Swiss Journal of Economics & Statistics, Switzerland <br>
-    Kai-Uwe Schnapp, University of Hamburg & Politische Vierteljahresschrift (Political Science Quarterly), Germany <br>
-    Simon Heuberger, Technical University of Munich & Replicator for Political Analysis, Germany <br>
-    Kostas Gemenis, Max Planck Institute for the Study of Societies, Germany <br>
+    <b><a href="mailto:afouxenidis@ekke.gr">Alex Afouxenidis</a></b>, EKKE & Greek Review for Social Research, Greece <br>
+    <b>Rafael Lalive</b>, University of Lausanne & Swiss Journal of Economics & Statistics, Switzerland <br>
+    <b>Kai-Uwe Schnapp</b>, University of Hamburg & Politische Vierteljahresschrift (Political Science Quarterly), Germany <br>
+    <b>Simon Heuberger</b>, Technical University of Munich & Replicator for Political Analysis, Germany <br>
+    <b>Kostas Gemenis</b>, Max Planck Institute for the Study of Societies, Germany <br>
       <a href="mailto:dvlasice@ffzg.hr">Denis Vlašiček</a>, CROSSDA / University of Zagreb, Croatia <br>
-    Holger Döring, University of Bremen, Germany <br>
-    S.Einarson / W.Scholma / J.Prevost, Acquisitions Editors, Brill Publishing <br>
-    Matt Cannon / Caroline Sutton, Open Research, Taylor & Francis <br>
-    Graham Smith, Research Data, Springer Nature Group <br>
+    <b>Holger Döring</b>, University of Bremen, Germany <br>
+    <b>S.Einarson / W.Scholma / J.Prevost</b>, Acquisitions Editors, Brill Publishing <br>
+    <b>Matt Cannon / Caroline Sutton</b>, Open Research, Taylor & Francis <br>
+    <b>Graham Smith, Research Data</b>, Springer Nature Group <br>
   </ul>
 <p>
   <i>15:00-15:10	Break</i> <br>
