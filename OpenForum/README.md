@@ -28,17 +28,16 @@
     <li>Ilze Lace, Swedish National Data Service (SND), Sweden <br>
     <li><a href="mailto:dcmagd@essex.ac.uk">Cristina Magder</a>, Data Collections Development Manager,
     <li><a href="https://www.data-archive.ac.uk" target="_blank">UK Data Archive</a>/<a href="https://www.ukdataservice.ac.uk" target="_blank">UK Data Service</a> <br>
-    <li><a href="mailto:afouxenidis@ekke.gr">Alex Afouxenidis</a>, EKKE & Greek Review for Social Research, Greece <br>
-    <li>Rafael Lalive, University of Lausanne & Swiss Journal of Economics & Statistics, Switzerland <br>
-    <li>Kai-Uwe Schnapp, University of Hamburg & Politische Vierteljahresschrift (Political Science Quarterly), Germany <br>
-    <li>Simon Heuberger, Technical University of Munich & Replicator for Political Analysis, Germany <br>
-    <li>Kostas Gemenis, Max Planck Institute for the Study of Societies, Germany <br>
-    <li><a href="mailto:dvlasice@ffzg.hr">Denis Vlašiček</a>, CROSSDA / University of Zagreb, Croatia <br>
-    <li>Holger Döring, University of Bremen, Germany <br>
-    <li>S.Einarson / W.Scholma / J.Prevost, Acquisitions Editors, Brill Publishing <br>
-    <li>Matt Cannon / Caroline Sutton, Open Research, Taylor & Francis <br>
-    <li>Graham Smith, Research Data, Springer Nature Group <br>
-</li>
+    <li><a href="mailto:afouxenidis@ekke.gr">Alex Afouxenidis</a>, EKKE & Greek Review for Social Research, Greece</li> <br>
+    <li>Rafael Lalive, University of Lausanne & Swiss Journal of Economics & Statistics, Switzerland</li> <br>
+    <li>Kai-Uwe Schnapp, University of Hamburg & Politische Vierteljahresschrift (Political Science Quarterly), Germany</li> <br>
+    <li>Simon Heuberger, Technical University of Munich & Replicator for Political Analysis, Germany</li> <br>
+    <li>Kostas Gemenis, Max Planck Institute for the Study of Societies, Germany</li> <br>
+    <li><a href="mailto:dvlasice@ffzg.hr">Denis Vlašiček</a>, CROSSDA / University of Zagreb, Croatia</li> <br>
+    <li>Holger Döring, University of Bremen, Germany</li> <br>
+    <li>S.Einarson / W.Scholma / J.Prevost, Acquisitions Editors, Brill Publishing</li> <br>
+    <li>Matt Cannon / Caroline Sutton, Open Research, Taylor & Francis</li> <br>
+    <li>Graham Smith, Research Data, Springer Nature Group</li> <br>
 </ul>
 <p>  
   <i>15:00-15:10	Break</i> <br>
