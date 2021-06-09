@@ -23,7 +23,7 @@
   13:30-13:50	Q&As from 2020 / Moderated discussion: TBC <br>
   <i>13:50-14:00	Break</i>
     
-  <p>14:00-15:00  Panel “Challenges of data sharing from different perspectives” <i>Chair: <b>Brian Kleiner</b>, FORS, Switzerland</i>
+  <p>14:00-15:00  Panel “Challenges of data sharing from different perspectives” <i>Moderator: <b>Brian Kleiner</b>, FORS, Switzerland</i>
   <ul>
     <b>Ilze Lace</b>, Swedish National Data Service (SND), Sweden <br>
     <b><a href="mailto:dcmagd@essex.ac.uk">Cristina Magder</a></b>, Data Collections Development Manager,
@@ -37,8 +37,9 @@
     <b>Holger Döring</b>, University of Bremen, Germany <br>
     <b>S.Einarson / W.Scholma / J.Prevost</b>, Acquisitions Editors, Brill Publishing <br>
     <b>Matt Cannon / Caroline Sutton</b>, Open Research, Taylor & Francis <br>
-    <b>Graham Smith, Research Data</b>, Springer Nature Group <br>
-<p>
+    <b>Graham Smith</b>, Research Data, Springer Nature Group <br>
+  <ul>
+  <p>
   <i>15:00-15:10	Break</i> <br>
   15:10-15:25	Conclusions from 2020 and planned Journal Outreach Activities for 2021-22: TBC <br>
   15:25-15:50	Open Discussion 2021-22 “Working together to tackle challenges and find solutions” <br>
