@@ -14,16 +14,17 @@
 
   <h3>Registration</h3>
   <p>There are limited spaces available and we encourage you to register early to avoid disappointment: <a href="https://us02web.zoom.us/meeting/register/tZctdOyhqT4tH9DubmQ3qKwI8_s1lxkQ4xhx" target="_blank"> Registration form </a> 
-  <br>Please note that this event (including questions and responses) will be recorded.<br>
+    Please note that this event (including questions and responses) will be recorded.<br>
     
   <h3>Draft Programme <i>(subject to minor changes)</i></h3>
-  <p>13:00-13:05	Welcome and logistics: Serafeim Alvanides, GESIS <br>
+  <p>
+  13:00-13:05	Welcome and logistics: Serafeim Alvanides, GESIS <br>
   13:05-13:15	Context: Helena Laaksonen, Finnish Social Science Data Archive <br>
   13:15-13:30 	Journals Outreach 2020 Activities and Findings: TBC <br>
   13:30-13:50	Q&As from 2020 / Moderated discussion: TBC <br>
   <i>13:50-14:00	Break</i>
-    
-  <p>14:00-15:00  Panel “Challenges of data sharing from different perspectives” <i>Moderator: <b>Brian Kleiner</b>, FORS, Switzerland</i>
+  <p>
+  14:00-15:00  Panel “Challenges of data sharing from different perspectives” <i>Moderator: <b>Brian Kleiner</b>, FORS, Switzerland</i>
   <ul>
     <b>Ilze Lace</b>, Swedish National Data Service (SND), Sweden <br>
     <b><a href="mailto:dcmagd@essex.ac.uk">Cristina Magder</a></b>, Data Collections Development Manager,
