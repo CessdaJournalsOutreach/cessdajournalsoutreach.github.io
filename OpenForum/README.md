@@ -21,7 +21,7 @@
   13:30-13:50	Q&As from 2020 / Moderated discussion: TBC <br>
   <i>13:50-14:00	Break</i>
   <p>14:00-15:00  Panel “Challenges of data sharing from different perspectives” Chair: Brian Kleiner, FORS, Switzerland<br>
-<ul>
+<ul style="list-style-type:square">
     <li>Ilze Lace, Swedish National Data Service (SND), Sweden <br>
     <li><a href="mailto:dcmagd@essex.ac.uk">Cristina Magder</a>, Data Collections Development Manager,
         <a href="https://www.data-archive.ac.uk" target="_blank">UK Data Archive</a>/<a href="https://www.ukdataservice.ac.uk" target="_blank">UK Data Service</a> <br>
