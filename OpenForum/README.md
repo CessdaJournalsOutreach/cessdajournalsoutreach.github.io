@@ -24,7 +24,7 @@
 <ul>
 Ilze Lace, Swedish National Data Service (SND), Sweden <br>
 Cristina Magder, Data Collections Development Manager, UK Data Service <br>
-Alexandros Afouxenidis, Greek Review for Social Research, Greece <br>
+<a href="mailto:afouxenidis@ekke.gr">Alex Afouxenidis</a>, EKKE & Greek Review for Social Research, Greece <br>
 Rafael Lalive, Swiss Journal of Economics and Statistics, Switzerland <br>
 Simon Heuberger, Technical University of Munich, Germany <br>
 Kostas Gemenis, Max Planck Institute for the Study of Societies, Germany <br>
