@@ -18,7 +18,7 @@
     
   <h3>Draft Programme <i>(subject to minor changes)</i></h3>
   <p>13:00-13:05	Welcome and logistics: Serafeim Alvanides, GESIS <br>
-  13:05-13:15	Context: Helena Laaksonen, Director Finnish Social Science Data Archive <br>
+  13:05-13:15	Context: Helena Laaksonen, Finnish Social Science Data Archive <br>
   13:15-13:30 	Journals Outreach 2020 Activities and Findings: TBC <br>
   13:30-13:50	Q&As from 2020 / Moderated discussion: TBC <br>
   <i>13:50-14:00	Break</i>
