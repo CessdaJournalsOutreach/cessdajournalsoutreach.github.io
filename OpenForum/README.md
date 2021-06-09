@@ -20,7 +20,7 @@
   13:15-13:30 	Journals Outreach 2020 Activities and Findings: TBC <br>
   13:30-13:50	Q&As from 2020 / Moderated discussion: TBC <br>
   <i>13:50-14:00	Break</i>
-  <p>14:00-15:00  Panel discussion “Challenges of data sharing from different perspectives”<br>
+  <p>14:00-15:00  Panel “Challenges of data sharing from different perspectives” Chair: Brian Kleiner, FORS, Switzerland<br>
 
 <ul>
     Ilze Lace, Swedish National Data Service (SND), Sweden <br>
