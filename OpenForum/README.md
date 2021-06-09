@@ -27,7 +27,7 @@
     Cristina Magder, Data Collections Development Manager, UK Data Service <br>
     <a href="mailto:afouxenidis@ekke.gr">Alex Afouxenidis</a>, EKKE & Greek Review for Social Research, Greece <br>
     Rafael Lalive, University of Lausanne & Swiss Journal of Economics & Statistics, Switzerland <br>
-    Kai-Uwe Schnapp, University of Hamburg & Politische Vierteljahresschrift (Political Science Quarterly), Germany
+    Kai-Uwe Schnapp, University of Hamburg & Politische Vierteljahresschrift (Political Science Quarterly), Germany <br>
     Simon Heuberger, Technical University of Munich & Replicator for Political Analysis, Germany <br>
     Kostas Gemenis, Max Planck Institute for the Study of Societies, Germany <br>
     <a href="mailto:dvlasice@ffzg.hr">Denis Vlašiček</a>, CROSSDA / University of Zagreb, Croatia <br>
