@@ -26,7 +26,7 @@ Ilze Lace, Swedish National Data Service (SND), Sweden <br>
 Cristina Magder, Data Collections Development Manager, UK Data Service <br>
 Alexandros Afouxenidis, Greek Review for Social Research, Greece <br>
 Rafael Lalive, Swiss Journal of Economics and Statistics, Switzerland <br>
-Simon Heuberger, Replicator for the journal Political Analysis, Germany <br>
+Simon Heuberger, Technical University of Munich, Germany <br>
 Kostas Gemenis, Max Planck Institute for the Study of Societies, Germany <br>
 Denis Vlašiček, CROSSDA / University of Zagreb, Croatia <br>
 Holger Döring, University of Bremen, Germany <br>
