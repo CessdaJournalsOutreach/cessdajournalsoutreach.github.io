@@ -1,9 +1,8 @@
 ## CESSDA Agenda 2021-22 Training Task 2: Journals Outreach
 
-An increasing number of academic journals are requiring the deposit of the data used in publications, but many journals are not equipped for handling these or lack the resources for long-term preservation of data and documentation. Researchers are also under pressure by funding bodies, own institutions and the research community to make available the data linked to academic publications.
-
-
 The overall aim of the Journals Outreach Task is to create a dialogue between academic publishers, journal editors and CESSDA partners, for the dissemination of good practice related to data sharing and preservation. The Journals Outreach Task will achieve its aim by organising dissemination events, developing  pilot case studies, publishing examples of good practice and acting as a distributed hub of communication between academic publishers, journal editors and CESSDA partners.
+
+An increasing number of academic journals are requiring the deposit of the data used in publications, but many publishers are not equipped for handling these or lack the resources for long-term preservation of data and documentation. Researchers are also under pressure by funding bodies, own institutions and the research community to make the data linked to academic publications widely available for reuse, transparency or replication.
 
 ### Partners
 - GESIS, Germany: Serafeim Alvanides (Leading partner) <br>
