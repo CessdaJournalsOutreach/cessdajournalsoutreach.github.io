@@ -24,7 +24,7 @@
   <i>13:50-14:00	Break</i>
     
   <p>14:00-15:00  Panel “Challenges of data sharing from different perspectives” <i>Chair: Brian Kleiner, FORS, Switzerland</i>
-  <ul type="square">
+  <ul>
     Ilze Lace, Swedish National Data Service (SND), Sweden <br>
     <a href="mailto:dcmagd@essex.ac.uk">Cristina Magder</a>, Data Collections Development Manager,
       <a href="https://www.data-archive.ac.uk" target="_blank">UK Data Archive</a>/<a href="https://www.ukdataservice.ac.uk" target="_blank">UK Data Service</a> <br>
@@ -38,6 +38,7 @@
     S.Einarson / W.Scholma / J.Prevost, Acquisitions Editors, Brill Publishing <br>
     Matt Cannon / Caroline Sutton, Open Research, Taylor & Francis <br>
     Graham Smith, Research Data, Springer Nature Group <br>
+  </ul>
 <p>
   <i>15:00-15:10	Break</i> <br>
   15:10-15:25	Conclusions from 2020 and planned Journal Outreach Activities for 2021-22: TBC <br>
