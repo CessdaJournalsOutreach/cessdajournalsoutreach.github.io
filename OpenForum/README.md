@@ -30,7 +30,7 @@ Simon Heuberger, Replicator for the journal Political Analysis, Germany <br>
 Kostas Gemenis, Max Planck Institute for the Study of Societies, Germany <br>
 Denis Vlašiček, CROSSDA / University of Zagreb, Croatia <br>
 Holger Döring, University of Bremen, Germany <br>
-Stefan Einarson / Wendel Scholma / Jason Prevost, Acquisitions Editors, BRILL publishers <br>
+S.Einarson / W.Scholma / J.Prevost, Acquisitions Editors, BRILL publishers <br>
 Matt Cannon / Caroline Sutton, Open Research, Taylor & Francis <br>
 Graham Smith, Research Data, Springer/Nature <br>
 </ul>
