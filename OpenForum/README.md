@@ -20,11 +20,9 @@
   <p>
   13:00-13:05	Welcome and logistics: Serafeim Alvanides, GESIS <br>
   13:05-13:15	Context: Helena Laaksonen, Finnish Social Science Data Archive <br>
-  13:15-13:30 	Journals Outreach 2020 Activities and Findings: TBC <br>
-  13:30-13:50	Q&As from 2020 / Moderated discussion: TBC <br>
-  <i>13:50-14:00	Break</i>
+  13:15-13:30	Journals Outreach 2020 Activities and Findings: TBC <br>
   <p>
-  14:00-15:00  Panel “Challenges of data sharing from different perspectives” <i>Moderator: <b>Brian Kleiner</b>, FORS, Switzerland</i>
+  13:30-14:50  Panel “Challenges of data sharing from different perspectives” <i>Moderator: <b>Brian Kleiner</b>, FORS, Switzerland</i>
   <ul>
     <b>Ilze Lace</b>, Swedish National Data Service (SND), Sweden <br>
     <b><a href="mailto:dcmagd@essex.ac.uk">Cristina Magder</a></b>, Data Collections Development Manager,
@@ -41,7 +39,6 @@
     <b>Graham Smith</b>, Research Data, Springer Nature Group <br>
   </ul>
   <p>
-  <i>15:00-15:10	Break</i> <br>
-  15:10-15:25	Conclusions from 2020 and planned Journal Outreach Activities for 2021-22: TBC <br>
-  15:25-15:50	Open Discussion 2021-22 “Working together to tackle challenges and find solutions” <br>
-  15:50-16:00	Planning the next J.Outreach event and Closure, S. Alvanides, GESIS <br>
+  <i>14:50-15:00 Short break to assemble questions from event participants</i> <br>
+  15:00-15:25 Questions & Open Discussion “Working together to tackle challenges and find solutions” <br>
+  15:25-15:30	Announcements for 2021-22 and Closure, S. Alvanides, GESIS <br>
