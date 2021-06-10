@@ -11,7 +11,7 @@
   <p>There are limited spaces available and we encourage you to register early to avoid disappointment: <a href="https://us02web.zoom.us/meeting/register/tZctdOyhqT4tH9DubmQ3qKwI8_s1lxkQ4xhx" target="_blank"> Registration form </a> 
     Please note that this event (including questions and responses) will be recorded.<br>
     
-  <h3>Draft Programme <i>(subject to minor changes)</i></h3>
+  <h3>Programme <i>(subject to minor changes)</i></h3>
   <p>
   13:00-13:05	Welcome and logistics: Serafeim Alvanides, GESIS <br>
   13:05-13:15	Context: Helena Laaksonen, Finnish Social Science Data Archive <br>
