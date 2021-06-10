@@ -6,11 +6,6 @@
   <h2>Open forum: Challenges of sharing data linked to publications</h2>
   <h3>Wednesday 30th June 2021, 13:00-16:00 CET online (zoom)</h3>
   <p>During this event, we will present findings from the Journals Outreach activities (CESSDA Work Plan 2020), engage with a panel of journal editors, publishers, researchers and data archives to discuss the challenges of data sharing from different perspectives and highlight  good practices for working together to find solutions as part of the CESSDA Agenda 2021-22. We welcome participation and input from researchers, scientific publishers, journal editors and representatives of data archives for a lively debate.</p>
-  <h3>Summary Programme</h3>
-  <p>
-  13:00 CET   Introduction to the CESSDA “Journals Outreach” activities and findings from 2020<br>
-  14:00 CET   Expert Panel: “What are the challenges of data sharing from different perspectives?”<br>
-  15:10 CET   Conclusions and Discussion: “Working together to tackle challenges and find solutions”<br>
 
   <h3>Registration</h3>
   <p>There are limited spaces available and we encourage you to register early to avoid disappointment: <a href="https://us02web.zoom.us/meeting/register/tZctdOyhqT4tH9DubmQ3qKwI8_s1lxkQ4xhx" target="_blank"> Registration form </a> 
@@ -42,3 +37,5 @@
   <i>14:50-15:00 Short break to assemble questions from event participants</i> <br>
   15:00-15:25 Questions & Open Discussion “Working together to tackle challenges and find solutions” <br>
   15:25-15:30	Announcements for 2021-22 and Closure, S. Alvanides, GESIS <br>
+  <i>15:30-15:50	Journals Outreach Task partners available for informal discussion</i> <br>
+                                                                                                       
