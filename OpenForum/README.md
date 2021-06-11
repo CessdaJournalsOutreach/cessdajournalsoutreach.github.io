@@ -29,7 +29,7 @@
     <b>Kostas Gemenis</b>, Max Planck Institute for the Study of Societies, Germany <br>
     <b><a href="mailto:dvlasice@ffzg.hr">Denis Vlašiček</a></b>, CROSSDA / University of Zagreb, Croatia <br>
     <b>Holger Döring</b>, University of Bremen, Germany <br>
-    <b>S.Einarson / W.Scholma / J.Prevost</b>, Acquisitions Editors, Brill Publishing <br>
+    <b>Wendel Scholma</b>, Acquisitions Editor, <a href="https://brill.com/page/Journals" target="_blank">Brill Publishing</a> <br>
     <b>Matt Cannon / Caroline Sutton</b>, Open Research, Taylor & Francis <br>
     <b>Graham Smith</b>, Research Data, Springer Nature Group <br>
   </ul>
