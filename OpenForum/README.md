@@ -30,7 +30,7 @@
     <b><a href="mailto:dvlasice@ffzg.hr">Denis Vlašiček</a></b>, CROSSDA / University of Zagreb, Croatia <br>
     <b>Holger Döring</b>, University of Bremen, Germany <br>
     <b>Wendel Scholma</b>, Acquisitions Editor, <a href="https://brill.com/page/Journals" target="_blank">Brill Publishing</a> <br>
-    <b>Matt Cannon / Caroline Sutton</b>, Open Research, Taylor & Francis <br>
+    <b>Caroline Sutton</b>, Director of Open Research, Taylor & Francis <br>
     <b>Graham Smith</b>, Research Data, Springer Nature Group <br>
   </ul>
   <p>
