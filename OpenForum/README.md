@@ -19,7 +19,8 @@
   <p>
   13:30-14:50  Panel “Challenges of data sharing from different perspectives” <i>Moderator: <b>Brian Kleiner</b>, FORS, Switzerland</i>
   <ul>
-    <b>Ilze Lace</b>, Swedish National Data Service (SND), Sweden <br>
+    <b><a href="mailto:ilze.lace@snd.gu.se">Ilze Lace</a></b>, Research Data Advisor,
+      <a href="https://snd.gu.se/en" target="_blank">Swedish National Data Service (SND)</a>, Sweden <br>
     <b><a href="mailto:dcmagd@essex.ac.uk">Cristina Magder</a></b>, Data Collections Development Manager,
       <a href="https://www.data-archive.ac.uk" target="_blank">UK Data Archive</a>/<a href="https://www.ukdataservice.ac.uk" target="_blank">UK Data Service</a> <br>
     <b><a href="mailto:afouxenidis@ekke.gr">Alex Afouxenidis</a></b>, EKKE & Greek Review for Social Research, Greece <br>
