@@ -18,7 +18,7 @@
   13:15-13:30	Journals Outreach: 2020 findings and 2021-22 activities [TBC] <br>
   <p>
   13:30-14:50  Panel “Challenges of data sharing from different perspectives” <i>Moderator: <b>Brian Kleiner</b>, FORS, Switzerland</i>
-  <ul>
+  <small><ul>
     <b><a href="mailto:ilze.lace@snd.gu.se">Ilze Lace</a></b>, Research Data Advisor,
       <a href="https://snd.gu.se/en" target="_blank">Swedish National Data Service (SND)</a>, Sweden <br>
     <b><a href="mailto:dcmagd@essex.ac.uk">Cristina Magder</a></b>, Data Collections Development Manager,
@@ -36,7 +36,7 @@
     <b><a href="mailto:scholma@brill.com">Wendel Scholma</a></b>, Acquisitions Editor,Brill & <a href="http://www.brill.com/rdj" target="_blank">Research Data Journal</a> <br>
     <b>Caroline Sutton</b>, Director of Open Research, Taylor & Francis <br>
     <b><a href="mailto:martina.bihn@springernature.com">Martina Bihn</a></b>, Editorial Director of Humanities and Social Sciences, Springer Nature Group <br>
-  </ul>
+  </small></ul>
   <p>
   <i>14:50-15:00 Short break to assemble questions from event participants</i> <br>
   15:00-15:25 Questions & Open Discussion “Working together to tackle challenges and find solutions” <br>
