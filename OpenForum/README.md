@@ -23,6 +23,8 @@
       <a href="https://snd.gu.se/en" target="_blank">Swedish National Data Service (SND)</a>, Sweden <br>
     <b><a href="mailto:dcmagd@essex.ac.uk">Cristina Magder</a></b>, Data Collections Development Manager,
       <a href="https://www.data-archive.ac.uk" target="_blank">UK Data Archive</a>/<a href="https://www.ukdataservice.ac.uk" target="_blank">UK Data Service</a> <br>
+    <b><a href="mailto:peter.doorn@dans.knaw.nl">Peter Doorn</a></b>, Scientific Advisor,
+      <a href="https://dans.knaw.nl" target="_blank">Data Archiving and Networked Services (DANS)</a>, The Netherlands <br>
     <b><a href="mailto:afouxenidis@ekke.gr">Alex Afouxenidis</a></b>, EKKE & Greek Review for Social Research, Greece <br>
     <b><a href="mailto:tanja.vuckovic.juros@gmail.com">Tanja Vučković Juroš</a></b>, University of Zagreb & Croatian Sociological Review, Croatia <br>
     <b>Rafael Lalive</b>, University of Lausanne & Swiss Journal of Economics & Statistics, Switzerland <br>
