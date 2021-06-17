@@ -31,11 +31,11 @@
     <b>Kai-Uwe Schnapp</b>, University of Hamburg & Politische Vierteljahresschrift (Political Science Quarterly), Germany <br>
     <b><a href="mailto:heuberger.simon@gmail.com">Simon Heuberger</a></b>, Technical University of Munich & Replicator for Political Analysis, Germany <br>
     <b>Kostas Gemenis</b>, Max Planck Institute for the Study of Societies, Germany <br>
-    <b><a href="mailto:dvlasice@ffzg.hr">Denis Vlašiček</a></b>, CROSSDA / University of Zagreb, Croatia <br>
+    <i><b><a href="mailto:dvlasice@ffzg.hr">Denis Vlašiček</a></b>, CROSSDA / University of Zagreb, Croatia</i> <br>
     <b>Holger Döring</b>, University of Bremen, Germany <br>
     <b><a href="mailto:scholma@brill.com">Wendel Scholma</a></b>, Acquisitions Editor,Brill & <a href="http://www.brill.com/rdj" target="_blank">Research Data Journal</a> <br>
     <b>Caroline Sutton</b>, Director of Open Research, Taylor & Francis <br>
-    <b>Graham Smith</b>, Research Data, Springer Nature Group <br>
+    <b><a href="mailto:martina.bihn@springernature.com">Martina Bihn</a></b>, Editorial Director of Humanities and Social Sciences, Springer Nature Group <br>
   </ul>
   <p>
   <i>14:50-15:00 Short break to assemble questions from event participants</i> <br>
