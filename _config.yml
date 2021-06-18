@@ -1,8 +1,21 @@
+# Site settings
 title: Journals Outreach
 logo: Cessda_logo_grey_footer.png
 description: Agenda 2021-22 (Training Task 2)
-show_downloads: false
+
+description: <h2><strong>Event Plan</strong></h2>
+             <p>Monday 10:00 - describtion</p>
+             <p>Tuesday 10:00 - describtion</p>
+             <p>Wednseday 10:00 - describtion</p>
+             <a href="https://us02web.zoom.us/meeting/register/tZctdOyhqT4tH9DubmQ3qKwI8_s1lxkQ4xhx">Registration Form</a>
+
 theme: jekyll-theme-minimal
+show_downloads: false
+footer: false
+layout: default
+sidebar: true
+toc: true
+
 #Instructions:
 # https://github.com/pages-themes/minimal#usage
 
