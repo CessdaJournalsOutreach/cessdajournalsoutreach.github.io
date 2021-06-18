@@ -27,7 +27,7 @@
       <a href="https://dans.knaw.nl" target="_blank">Data Archiving and Networked Services (DANS)</a>, The Netherlands <br>
     <b><a href="mailto:afouxenidis@ekke.gr">Alex Afouxenidis</a></b>, EKKE & <i>Greek Review for Social Research</i>, Greece <br>
     <b><a href="mailto:tanja.vuckovic.juros@gmail.com">Tanja Vučković Juroš</a></b>, University of Zagreb & <i>Croatian Sociological Review</i>, Croatia <br>
-    <b><a href="mailto:rafael.lalive@unil.ch">Rafael Lalive</b>, University of Lausanne & <i>Swiss Journal of Economics & Statistics</i>, Switzerland <br>
+    <b><a href="mailto:rafael.lalive@unil.ch">Rafael Lalive</a></b>, University of Lausanne & <i>Swiss Journal of Economics & Statistics</i>, Switzerland <br>
     <b>Kai-Uwe Schnapp</b>, Universität Hamburg & <i>Politische Vierteljahresschrift (German Political Science Quarterly)</i>, Germany <br>
     <b><a href="mailto:heuberger.simon@gmail.com">Simon Heuberger</a></b>, Technical University of Munich & Replicator for Political Analysis, Germany <br>
     <b>Kostas Gemenis</b>, Max Planck Institute for the Study of Societies, Germany <br>
