@@ -28,7 +28,7 @@
     <b><a href="mailto:afouxenidis@ekke.gr">Alex Afouxenidis</a></b>, EKKE & Greek Review for Social Research, Greece <br>
     <b><a href="mailto:tanja.vuckovic.juros@gmail.com">Tanja Vučković Juroš</a></b>, University of Zagreb & Croatian Sociological Review, Croatia <br>
     <b>Rafael Lalive</b>, University of Lausanne & Swiss Journal of Economics & Statistics, Switzerland <br>
-    <b>Kai-Uwe Schnapp</b>, University of Hamburg & Politische Vierteljahresschrift (Political Science Quarterly), Germany <br>
+    <b>Kai-Uwe Schnapp</b>, Universität Hamburg & Politische Vierteljahresschrift (German Political Science Quarterly), Germany <br>
     <b><a href="mailto:heuberger.simon@gmail.com">Simon Heuberger</a></b>, Technical University of Munich & Replicator for Political Analysis, Germany <br>
     <b>Kostas Gemenis</b>, Max Planck Institute for the Study of Societies, Germany <br>
     <i><b><a href="mailto:dvlasice@ffzg.hr">Denis Vlašiček</a></b>, CROSSDA / University of Zagreb, Croatia</i> <br>
