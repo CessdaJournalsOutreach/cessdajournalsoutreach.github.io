@@ -32,7 +32,7 @@
     <b><a href="mailto:heuberger.simon@gmail.com">Simon Heuberger</a></b>, Technical University of Munich & Replicator for Political Analysis, Germany <br>
     <b>Kostas Gemenis</b>, Max Planck Institute for the Study of Societies, Germany <br>
     <i><a href="mailto:dvlasice@ffzg.hr">Denis Vlašiček</a>, CROSSDA / University of Zagreb, Croatia</i> <br>
-    <b>Holger Döring</b>, University of Bremen, Germany <br>
+    <b>Holger Döring</b>, University of Bremen & <a href="https://www.gesis.org/en/institute/departments/data-services-for-the-social-sciences" target="_blank">GESIS Data Services</a>, Germany <br>
     <b><a href="mailto:scholma@brill.com">Wendel Scholma</a></b>, Acquisitions Editor,Brill & <a href="http://www.brill.com/rdj" target="_blank">Research Data Journal</a> <br>
     <b>Caroline Sutton</b>, Director of Open Research, Taylor & Francis <br>
     <b><a href="mailto:martina.bihn@springernature.com">Martina Bihn</a></b>, Editorial Director of Humanities and Social Sciences, Springer Nature Group <br>
