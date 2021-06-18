@@ -25,13 +25,13 @@
       <a href="https://www.data-archive.ac.uk" target="_blank">UK Data Archive</a>/<a href="https://www.ukdataservice.ac.uk" target="_blank">UK Data Service</a> <br>
     <b><a href="mailto:peter.doorn@dans.knaw.nl">Peter Doorn</a></b>, Scientific Advisor,
       <a href="https://dans.knaw.nl" target="_blank">Data Archiving and Networked Services (DANS)</a>, The Netherlands <br>
-    <b><a href="mailto:afouxenidis@ekke.gr">Alex Afouxenidis</a></b>, EKKE & Greek Review for Social Research, Greece <br>
-    <b><a href="mailto:tanja.vuckovic.juros@gmail.com">Tanja Vučković Juroš</a></b>, University of Zagreb & Croatian Sociological Review, Croatia <br>
-    <b>Rafael Lalive</b>, University of Lausanne & Swiss Journal of Economics & Statistics, Switzerland <br>
-    <b>Kai-Uwe Schnapp</b>, Universität Hamburg & Politische Vierteljahresschrift (German Political Science Quarterly), Germany <br>
+    <b><a href="mailto:afouxenidis@ekke.gr">Alex Afouxenidis</a></b>, EKKE & <i>Greek Review for Social Research</i>, Greece <br>
+    <b><a href="mailto:tanja.vuckovic.juros@gmail.com">Tanja Vučković Juroš</a></b>, University of Zagreb & <i>Croatian Sociological Review</i>, Croatia <br>
+    <b><a href="mailto:rafael.lalive@unil.ch">Rafael Lalive</b>, University of Lausanne & <i>Swiss Journal of Economics & Statistics</i>, Switzerland <br>
+    <b>Kai-Uwe Schnapp</b>, Universität Hamburg & <i>Politische Vierteljahresschrift (German Political Science Quarterly)</i>, Germany <br>
     <b><a href="mailto:heuberger.simon@gmail.com">Simon Heuberger</a></b>, Technical University of Munich & Replicator for Political Analysis, Germany <br>
     <b>Kostas Gemenis</b>, Max Planck Institute for the Study of Societies, Germany <br>
-    <i><b><a href="mailto:dvlasice@ffzg.hr">Denis Vlašiček</a></b>, CROSSDA / University of Zagreb, Croatia</i> <br>
+    <i><a href="mailto:dvlasice@ffzg.hr">Denis Vlašiček</a>, CROSSDA / University of Zagreb, Croatia</i> <br>
     <b>Holger Döring</b>, University of Bremen, Germany <br>
     <b><a href="mailto:scholma@brill.com">Wendel Scholma</a></b>, Acquisitions Editor,Brill & <a href="http://www.brill.com/rdj" target="_blank">Research Data Journal</a> <br>
     <b>Caroline Sutton</b>, Director of Open Research, Taylor & Francis <br>
