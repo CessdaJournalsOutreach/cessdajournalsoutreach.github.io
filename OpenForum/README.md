@@ -29,9 +29,9 @@
     <b><a href="mailto:rafael.lalive@unil.ch">Rafael Lalive</a></b>, University of Lausanne & <i>Swiss Journal of Economics & Statistics</i>, Switzerland <br>
     <b>Kai-Uwe Schnapp</b>, Universität Hamburg & <i>Politische Vierteljahresschrift (German Political Science Quarterly)</i>, Germany <br>
 <br>
-    <b><a href="mailto:heuberger.simon@gmail.com">Simon Heuberger</a></b>, TU München & Replicator for <i>Political Analysis</i> <br>
-    <b>Kostas Gemenis</b>, Max Planck Institute for the Study of Societies <br>
-    <b>Holger Döring</b>, University of Bremen & <a href="https://www.gesis.org/en/institute/departments/data-services-for-the-social-sciences" target="_blank">GESIS Data Services</a> <br>
+    <b><a href="mailto:heuberger.simon@gmail.com">Research Scientist, Simon Heuberger</a></b>, TU München & Replicator for <i>Political Analysis</i> <br>
+    <b>Kostas Gemenis</b>, Senior Researcher, Max Planck Institute for the Study of Societies <br>
+    <b>Holger Döring</b>, Universität Bremen & <a href="https://www.gesis.org/en/institute/departments/data-services-for-the-social-sciences" target="_blank">GESIS Data Services</a> <br>
 <br>
     <b><a href="mailto:ilze.lace@snd.gu.se">Ilze Lace</a></b>, Research Data Advisor,
       <a href="https://snd.gu.se/en" target="_blank">Swedish National Data Service (SND)</a>, Sweden <br>
