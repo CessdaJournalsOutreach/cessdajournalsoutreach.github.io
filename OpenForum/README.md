@@ -21,7 +21,7 @@
     
 <ul>
     <b><a href="mailto:scholma@brill.com">Wendel Scholma</a></b>, Acquisitions Editor & <a href="http://www.brill.com/rdj" target="_blank">Research Data Journal</a>, Brill <br>
-    <b>Caroline Sutton</b>, Director of Open Research, Taylor & Francis <br>
+    <b><a href="mailto:caroline.sutton@informa.com">Caroline Sutton</a></b>, Director of Open Research, Taylor & Francis <br>
     <b><a href="mailto:martina.bihn@springernature.com">Martina Bihn</a></b>, Editorial Director of Humanities and Social Sciences, Springer Nature Group <br>
 <br>
     <b><a href="mailto:tanja.vuckovic.juros@gmail.com">Tanja Vučković Juroš</a></b>, University of Zagreb & <i>Croatian Sociological Review</i>, Croatia <br>
