@@ -5,14 +5,15 @@ The overall aim of the Journals Outreach Task is to create a dialogue between ac
 An increasing number of academic journals are requiring the deposit of the data used in publications, but many publishers are not equipped for handling these or lack the resources for long-term preservation of data and documentation. Researchers are also under pressure by funding bodies, own institutions and the research community to make the data linked to academic publications widely available for reuse, transparency or replication.
 
 ### Partners
-- GESIS, Germany: Serafeim Alvanides (Leading partner) <br>
+- [GESIS, Germany](https://www.gesis.org/en/institute/departments/data-services-for-the-social-sciences): Serafeim Alvanides (Leading partner) <br>
 - CROSSDA, Croatia: Marijana Glavica, Irena Kranjec <br>
-- EKKE, Greece: Dimitra Kondyli, Apostolos Linardis <br>
-- FORS, Switzerland: Brian Kleiner, Emilie Morgan de Paula <br>
-- FSD, Finland: Helena Laaksonen <br>
-- SND, Sweden: Ilze Lace <br>
-- TARKI, Hungary: Béla Janky <br>
-- ADP.FDV, Slovenia, Janez Štebe, Sonja Bezjak <br>
+- [EKKE, Greece](https://www.ekke.gr/en): Dimitra Kondyli, Apostolos Linardis <br>
+- [FORS, Switzerland](https://forscenter.ch/data-services): Brian Kleiner, Emilie Morgan de Paula <br>
+- [FSD, Finland](https://www.fsd.tuni.fi/en/services): Helena Laaksonen <br>
+- [SND, Sweden](https://snd.gu.se/en): Ilze Lace <br>
+- [ADP.FDV, Slovenia](https://www.adp.fdv.uni-lj.si/eng/): Janez Štebe, Sonja Bezjak <br>
+- [TARKI, Hungary](https://adatbank.tarki.hu/en): Béla Janky <br>
+- DCS, Serbia: Jelena Banovic <br>
 
 ### Activities and Events
 **Open forum: Challenges of sharing data linked to publications** <br>
