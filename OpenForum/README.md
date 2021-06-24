@@ -13,9 +13,9 @@
     
   <h3>Programme <i>(subject to minor changes)</i></h3>
   <p>
-  13:00-13:05	Welcome and logistics: Serafeim Alvanides, GESIS <br>
+  13:00-13:05	Welcome and logistics: Serafeim Alvanides, GESIS Data Services for the Social Sciences (DSS) <br>
   13:05-13:15	Context: Helena Laaksonen, Finnish Social Science Data Archive <br>
-  13:15-13:30	Journals Outreach: 2020 findings and 2021-22 activities [TBC] <br>
+  13:15-13:30	Journals Outreach: 2020 findings and Agenda 2021-22, Marijana Glavica,Croatian Social Science Data Archive <br>
   <p>
   13:30-14:50  Panel “Challenges of data sharing from different perspectives” <i>Moderator: <b>Brian Kleiner</b>, FORS, Switzerland</i>
     
@@ -43,6 +43,6 @@
     
   <p>
   <i>14:50-15:00 Short break to assemble questions from event participants</i> <br>
-  15:00-15:25 Questions & Open Discussion “Working together to tackle challenges and find solutions” <br>
+  15:00-15:25 Questions & Open Discussion “Working together to tackle challenges and find solutions” <i>Moderator: Dimitra Kondyli, EKKE, Greece</i><br>
   15:25-15:30	Announcements for Journals Outreach 2021-22 and Closure, S. Alvanides, GESIS <br>
   <i>15:30-15:50	Journals Outreach Task partners available for informal discussion</i> <br>                                                                                                       
