@@ -14,7 +14,7 @@
   <h3>Programme <i>(final)</i></h3>
   <p>
   13:00-13:05	Welcome and timetable: <i><b>S.Alvanides</b>, GESIS Data Services for the Social Sciences</i> <br>
-  13:05-13:15	Context: <i><b>Helena Laaksonen</b>, Finnish Social Science Data Archive</i> <br>
+  13:05-13:15	Journals Outreach Context: <i><b>Helena Laaksonen</b>, Finnish Social Science Data Archive</i> <br>
   13:15-13:30	Journals Outreach 2020 highlights and Agenda 2021-22: <i><b>Marijana Glavica</b>, Croatian Social Science Data Archive</i> <br>
   <p>
   13:30-14:50  Panel “Challenges of data sharing from different perspectives” <i>Moderator: <b>Brian Kleiner</b>, FORS, Switzerland</i>
