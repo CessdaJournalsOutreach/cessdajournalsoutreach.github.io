@@ -8,7 +8,7 @@ An increasing number of academic journals are requiring the deposit of the data 
 - [GESIS, Germany](https://www.gesis.org/en/institute/departments/data-services-for-the-social-sciences): Serafeim Alvanides (Leading partner) <br>
 - [CROSSDA, Croatia](https://www.crossda.hr): Marijana Glavica, Irena Kranjec <br>
 - [EKKE, Greece](https://www.ekke.gr/en): Dimitra Kondyli, Apostolos Linardis, Nikolas Klironomos <br>
-- [ADP.FDV, Slovenia](https://www.adp.fdv.uni-lj.si/eng/): Janez Štebe, Sonja Bezjak <br>
+- [ADP, Slovenia](https://www.adp.fdv.uni-lj.si/eng/): Janez Štebe, Sonja Bezjak <br>
 - [FORS, Switzerland](https://forscenter.ch): Brian Kleiner, Emilie Morgan de Paula <br>
 - [FSD, Finland](https://www.fsd.tuni.fi/en/services): Helena Laaksonen <br>
 - [SND, Sweden](https://snd.gu.se/en): Ilze Lace <br>
