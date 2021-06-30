@@ -8,7 +8,7 @@
   <p>During this event, we will present findings from the Journals Outreach activities (CESSDA Work Plan 2020), engage with a panel of journal editors, publishers, researchers and data archives to discuss the challenges of data sharing from different perspectives and highlight  good practices for working together to find solutions as part of the CESSDA Agenda 2021-22. We welcome participation and input from journal editors, scientific publishers, social scientists and representatives of data archives for a lively debate.</p>
 
   <h3>Registration</h3>
-  <p><b>This event has now taken place and recorded as planned. Participants will receive notification about the outputs from the event (presentations, recordings, report) in a few weeks. If you have any questions, please contact <b><a href="mailto:S.Alvanides@gesis.org">S.Alvanides (GESIS)</a> Thank you for your participation! </b>
+  <p><b>This event has now taken place and recorded as planned. Participants will receive notification about the outputs from the event (presentations, recordings, report) in a few weeks. If you have any questions, please contact <a href="mailto:S.Alvanides@gesis.org">S.Alvanides (GESIS)</a> Thank you for your participation! </b>
   <p><i>There are limited spaces available and we encourage you to register early to avoid disappointment: <a href="https://us02web.zoom.us/meeting/register/tZctdOyhqT4tH9DubmQ3qKwI8_s1lxkQ4xhx" target="_blank"> Registration form </a> 
     Please note that this event (including questions and responses) will be recorded.</i><br>
     
