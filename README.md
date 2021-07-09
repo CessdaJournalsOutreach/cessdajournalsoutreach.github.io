@@ -1,6 +1,6 @@
 ## CESSDA Agenda 2021-22 Training Task 2: Journals Outreach
 
-**Mailing list for future events and good practice** <br>
+### Mailing list for future events and good practice
 To join our mailing list, please send an email with your full name and affiliation as Subject to: journals-data+subscribe@cessda.eu
 
 ### Context
@@ -22,6 +22,7 @@ An increasing number of academic journals are requiring the deposit of the data 
 ### Activities and Events
 **Forthcoming event: "Data for Journals: from preparation to replication"** <br>
 _early/mid October 2021, mid-week pm online (zoom)_ <br>
+To receive more information, please join our mailing list (see above)
 
 **Open forum: Challenges of sharing data linked to publications** <br>
 _Wednesday 30th June 2021, 13:00-16:00 CET online (zoom)_ <br>
