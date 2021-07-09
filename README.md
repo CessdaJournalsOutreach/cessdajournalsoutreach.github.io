@@ -4,7 +4,6 @@
 To join our mailing list, please send an email with your full name and affiliation as Subject to: journals-data+subscribe@cessda.eu
 
 ### Context
-
 The overall aim of the Journals Outreach Task is to create a dialogue between academic publishers, journal editors and CESSDA partners, for the dissemination of good practice related to data sharing and preservation. The Journals Outreach Task will achieve its aim by organising dissemination events, developing  pilot case studies, publishing examples of good practice and acting as a distributed hub of communication between academic publishers, journal editors and CESSDA partners.
 
 An increasing number of academic journals are requiring the deposit of the data used in publications, but many publishers are not equipped for handling these or lack the resources for long-term preservation of data and documentation. Researchers are also under pressure by funding bodies, own institutions and the research community to make the data linked to academic publications widely available for reuse, transparency or replication.
@@ -21,6 +20,9 @@ An increasing number of academic journals are requiring the deposit of the data 
 - DCS, Serbia: Jelena Banovic <br>
 
 ### Activities and Events
+**Forthcoming event: "Data for Journals: from preparation to replication"** <br>
+_early/mid October 2021, mid-week pm online (zoom)_ <br>
+
 **Open forum: Challenges of sharing data linked to publications** <br>
 _Wednesday 30th June 2021, 13:00-16:00 CET online (zoom)_ <br>
 <a href="https://cessdajournalsoutreach.github.io/OpenForum" target="_blank">https://cessdajournalsoutreach.github.io/OpenForum</a>
