@@ -1,6 +1,6 @@
 ## CESSDA Agenda 2021-22 Training Task 2: Journals Outreach
 
-## Mailing list for future events and good practice
+**Mailing list for future events and good practice**
 To join our mailing list, please send an email with your full name and affiliation to: <a href="journals-data+subscribe@cessda.eu">journals-data+subscribe@cessda.eu</a>
 
 ### Context
