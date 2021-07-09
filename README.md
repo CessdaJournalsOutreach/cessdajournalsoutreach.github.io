@@ -1,7 +1,7 @@
 ## CESSDA Agenda 2021-22 Training Task 2: Journals Outreach
 
 ### Mailing list for future events and good practice
-To join our mailing list, please send an email with your full name and affiliation as Subject to: journals-data+subscribe@cessda.eu
+To join our mailing list, please send an email with your full name and affiliation to: journals-data+subscribe@cessda.eu
 
 ### Context
 The overall aim of the Journals Outreach Task is to create a dialogue between academic publishers, journal editors and CESSDA partners, for the dissemination of good practice related to data sharing and preservation. The Journals Outreach Task will achieve its aim by organising dissemination events, developing  pilot case studies, publishing examples of good practice and acting as a distributed hub of communication between academic publishers, journal editors and CESSDA partners.
@@ -22,7 +22,7 @@ An increasing number of academic journals are requiring the deposit of the data 
 ### Activities and Events
 **Forthcoming event: "Data for Journals: from preparation to replication"** <br>
 _early/mid October 2021, mid-week pm online (zoom)_ <br>
-To receive more information, please join our mailing list (see above)
+To receive more information, please join our mailing list (see above) <br>
 
 **Open forum: Challenges of sharing data linked to publications** <br>
 _Wednesday 30th June 2021, 13:00-16:00 CET online (zoom)_ <br>
