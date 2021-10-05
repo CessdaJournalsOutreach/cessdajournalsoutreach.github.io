@@ -19,21 +19,21 @@
   <p>
   14:30-14:45	<i>Short break</i> <br>
   <p>
-  14:45-16:25  Part 2: “Transparency in practice (2h)” <i>Moderator: <b>S.Alvanides</b>, <a href="https://www.gesis.org/en/institute/departments/data-services-for-the-social-sciences" target="_blank">GESIS</a>, Germany</i>
+  14:45-16:25  Part 2: “Transparency in practice” <i>Moderator: <b>S.Alvanides</b>, <a href="https://www.gesis.org/en/institute/departments/data-services-for-the-social-sciences" target="_blank">GESIS</a>, Germany</i>
 
 <ul>
     <b><a href="mailto:rr@leibniz-psychology.org">Roland Ramthun</a></b>, Head of archiving and publication services 
       <a href="https://leibniz-psychology.org/en/staff/profile-roland-ramthun" target="_blank">Leibniz-Institut für Psychologie (ZPID)</a> <br>
-      Title: Implementation of an open-science research cycle model at ZPID.
+      <i>Implementation of an open-science research cycle model at ZPID.</i><br>
     <b><a href="mailto:peter.doorn@dans.knaw.nl">Peter Doorn & Leen Breure</a></b>, Scientific Advisors,
       <a href="https://dans.knaw.nl" target="_blank">Data Archiving and Networked Services (DANS)</a> <br>
-      Title: Showcasing research data in archives, repositories and data journals: Why we need more than just catalogues, metadata and plain articles.
+      <i>Showcasing research data in archives, repositories and data journals: Why we need more than just catalogues, metadata and plain articles.</i><br>
     <b><a href="mailto:jonas.recker@gesis.org">Jonas Recker</a></b>, Data Services for the Social Sciences, GESIS <br>
-      Title: More openness in research: an Open Science collaboration between GESIS and the journal Zeitschrift für Soziologie.
+      <i>More openness in research: an Open Science collaboration between GESIS and the journal Zeitschrift für Soziologie.</i><br>
     <b><a href="mailto:heuberger.simon@gmail.com">Simon Heuberger</a></b>, Research Scientist, TU München & Replicator for <i>Political Analysis</i> <br>
-      Title: Insufficiencies in Data Material or How (Not) to Replicate: A Walk-Through of a Real Replication Case for Political Analysis.
+      <i>Insufficiencies in Data Material or How (Not) to Replicate: A Walk-Through of a Real Replication Case for Political Analysis.</i><br>
     <b><a href="mailto:caroline.sutton@informa.com">Caroline Sutton</a></b>, Director of Open Research, Taylor & Francis <br>
-      Title: “Implementing the TOP Guidelines for a social science journal.”
+      <i>Implementing the TOP Guidelines for a social science journal.</i><br>
 </ul>
   <p>
   16:25-16:45	Discussion and Closure: <i><b>S. Alvanides</b>, GESIS</i> <br>
