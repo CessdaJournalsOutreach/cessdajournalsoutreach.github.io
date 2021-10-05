@@ -14,10 +14,10 @@
   <h3>Programme <i>(draft)</i></h3>
   <p>
   <b>13:30-14:00  Part 1: “Introduction"</b> <br>
-  
-  13:30-14:00	Welcome and Introduction: <i><b>Sergeja Masten & Sonja Bezjak</b>, @fdv.uni-lj.si</i> <br>
-  14:00-14:30	Definitions and Introduction to 2nd part: <i><b>Marijana Glavica & Denis Vlašiček</b>, Croatian Social Science Data Archive</i> <br>
-  
+  <ul>
+    13:30-14:00	Welcome and Introduction: <i><b>Sergeja Masten & Sonja Bezjak</b>, @fdv.uni-lj.si</i> <br>
+    14:00-14:30	Definitions and Introduction to 2nd part: <i><b>Marijana Glavica & Denis Vlašiček</b>, Croatian Social Science Data Archive</i> <br>
+  </ul>
   <p>
   14:30-14:45	<i>Short break</i> <br>
   <p>
