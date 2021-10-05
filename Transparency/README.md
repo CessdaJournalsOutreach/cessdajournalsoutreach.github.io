@@ -1,24 +1,25 @@
 <html>
   <head>
-    <title>Journals Outreach open forum (30.06.2021)</title>
+    <title>Journals Outreach collaborative event (11.11.2021)</title>
   </head>
   <body>
-  <h2>Open forum: Challenges of sharing data linked to publications</h2>
-  <h3>Wednesday 30th June 2021, 13:00-15:50 CET online </h3>
-  <p>During this event, we will present findings from the Journals Outreach activities (CESSDA Work Plan 2020), engage with a panel of journal editors, publishers, researchers and data archives to discuss the challenges of data sharing from different perspectives and highlight  good practices for working together to find solutions as part of the CESSDA Agenda 2021-22. We welcome participation and input from journal editors, scientific publishers, social scientists and representatives of data archives for a lively debate.</p>
+  <h2>Making Social Science research transparent</h2>
+  <h3>Thursday 11th November 2021, 13:30-16:45 CET online </h3>
+  <p>This is a collaborative event between CESSDA Training (Task 1) and Journals Outreach (Task 2) engaging with journal editors, publishers, researchers and data archives with the view of presenting and discussing good practice with various aspects of transparency in social science research, as part of the CESSDA Agenda 2021-22. We welcome participation and input from social scientists, representatives of data archives journal editors and scientific publishers for a lively debate.</p>
 
   <h3>Registration</h3>
-  <p><b>This event has now taken place and recorded as planned. Participants will receive notification about the outputs from the event (presentations, recordings, report) in a few weeks. If you have any questions, please contact <a href="mailto:S.Alvanides@gesis.org">S.Alvanides (GESIS)</a> Thank you for your participation and for your interest! </b>
+  <p><b>Registration info to follow. If you have any questions, please contact <a href="mailto:S.Alvanides@gesis.org">S.Alvanides (GESIS)</a> Thank you for your participation and for your interest! </b>
   <p><i>There are limited spaces available and we encourage you to register early to avoid disappointment: <a href="https://us02web.zoom.us/meeting/register/tZctdOyhqT4tH9DubmQ3qKwI8_s1lxkQ4xhx" target="_blank"> Registration form </a> 
     Please note that this event (including questions and responses) will be recorded.</i><br>
     
-  <h3>Programme <i>(final)</i></h3>
+  <h3>Programme <i>(draft)</i></h3>
   <p>
-  13:00-13:05	Welcome and timetable: <i><b>S.Alvanides</b>, GESIS Data Services for the Social Sciences</i> <br>
-  13:05-13:15	Journals Outreach Context: <i><b>Helena Laaksonen</b>, Finnish Social Science Data Archive</i> <br>
-  13:15-13:30	Journals Outreach 2020 highlights and Agenda 2021-22: <i><b>Marijana Glavica</b>, Croatian Social Science Data Archive</i> <br>
+  13:30-14:00	Welcome and Introduction: <i><b>Sergeja Masten & Sonja Bezjak</b>, @fdv.uni-lj.si</i> <br>
+  14:00-14:30	Definitions and Introduction to 2nd part: <i><b>Marijana Glavica & Denis Vlašiček</b>, Croatian Social Science Data Archive</i> <br>
   <p>
-  13:30-14:50  Panel “Challenges of data sharing from different perspectives” <i>Moderator: <b>Brian Kleiner</b>, FORS, Switzerland</i>
+  14:30-14:45	<i>Short break</i> <br>
+  <p>
+  14:45-16:45  Part 2: “Transparency in practice (2h)” <i>Moderator: <b>S.Alvanides</b>, GESIS, Germany</i>
     
 <ul>
     <b><a href="mailto:scholma@brill.com">Wendel Scholma</a></b>, Acquisitions Editor & <a href="http://www.brill.com/rdj" target="_blank">Research Data Journal</a>, Brill <br>
