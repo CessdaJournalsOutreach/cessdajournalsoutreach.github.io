@@ -21,7 +21,7 @@
   <p>
   14:30-14:45	<i>Short break</i> <br>
   <p>
-  <b>14:45-16:25  Part 2: “Transparency in practice” <i>Moderator: S.Alvanides</b>, <a href="https://www.gesis.org/en/institute/departments/data-services-for-the-social-sciences" target="_blank">GESIS</a>, Germany</i></b> <br>
+  <b>14:45-16:25  Part 2: “Transparency in practice” <i>Moderator: S.Alvanides</b>, <a href="https://www.gesis.org/en/institute/departments/data-services-for-the-social-sciences" target="_blank">GESIS</a></i></b> <br>
   <ul>
     <b><a href="mailto:rr@leibniz-psychology.org">Roland Ramthun</a></b>, Head of archiving and publication services 
       <a href="https://leibniz-psychology.org/en/staff/profile-roland-ramthun" target="_blank">Leibniz-Institut für Psychologie (ZPID)</a> <br>
