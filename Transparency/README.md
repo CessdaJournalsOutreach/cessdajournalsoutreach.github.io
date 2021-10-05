@@ -35,6 +35,6 @@
       <i>Insufficiencies in Data Material or How (Not) to Replicate: A Walk-Through of a Real Replication Case for Political Analysis.</i><br>
     <b><a href="mailto:caroline.sutton@informa.com">Caroline Sutton</a></b>, Director of Open Research, Taylor & Francis <br>
       <i>Implementing the TOP Guidelines for a social science journal.</i><br>
-  <p>
-  <b>16:25-16:45	Discussion and Closure: <i><b>S. Alvanides</b>, GESIS</i><b><br>
+  <p><br>
+  <b>16:25-16:45	Discussion and Closure: <i><b>S. Alvanides</b>, GESIS</i><b>
   </ul>  
