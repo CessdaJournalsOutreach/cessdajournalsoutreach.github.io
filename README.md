@@ -20,8 +20,8 @@ An increasing number of academic journals are requiring the deposit of the data 
 - DCS, Serbia: Jelena Banovic <br>
 
 ### Activities and Events
-**Forthcoming event: "Data for Journals: from preparation to replication"** <br>
-_early/mid October 2021, mid-week pm online (zoom)_ <br>
+**Forthcoming event: "Making Social Science Research Transparent"** <br>
+_11th November 2021, online (zoom)_ <br>
 To receive more information, please join our mailing list (see above) <br>
 
 **Open forum: Challenges of sharing data linked to publications** <br>
