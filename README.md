@@ -21,7 +21,7 @@ An increasing number of academic journals are requiring the deposit of the data 
 
 ### Activities and Events
 **Forthcoming event: "Making Social Science Research Transparent"** <br>
-_11th November 2021, 13:30-16:45 CET online (zoom)_ <br>
+_Thursday 11th November 2021, 13:30-16:45 CET online (zoom)_ <br>
 <a href="https://www.cessda.eu/Training/Event-Calendar/Making-Social-Science-Research-Transparent" target="_blank">https://www.cessda.eu/Training/Event-Calendar/Making-Social-Science-Research-Transparent</a> <br>
 To receive more information, please join our mailing list (see above) <br>
 <br>
