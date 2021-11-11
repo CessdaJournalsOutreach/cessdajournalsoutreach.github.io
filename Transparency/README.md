@@ -7,22 +7,17 @@
   <h3>Thursday 11th November 2021, 13:30-16:45 CET online </h3>   
   <p>High-quality data have the potential to be reused in many ways. Archiving and publishing your data properly is at the core of making your data FAIR and will enable both your future self as well as others to get the most out of your data. Recently, more and more scientific journals are implementing open data policies, leading to researchers' dilemmas about where, when and how to publish the data.
   <p>Replicability, reproducibility, questionable research practices, and related issues are becoming increasingly important in the social sciences. Consequently, the way that social science research is conducted and disseminated is gradually changing. A crucial element of that change is research transparency. This entails, among other things, making research data, analysis code, and study materials openly available. In this talk, we will present a short overview of some of the elements of research transparency, and their contribution to an open, and credible body of scientific knowledge.
-  <p>In the second part, we will present in-depth the processes, policies and tools implemented for facilitating transparent research in the social sciences. The presenters will discuss the processes that need to be in place for an open research cycle, the role of data archives and repositories in sharing research data and materials, tools for reproducing research findings in practice, collaborations between archives and social science journals, and implementing Transparency and Openness Promotion Guidelines in different social science disciplines. The event will conclude with wider reflections on the progress of social science research transparency and the way forward.
-  <p><i>This is a collaborative event between CESSDA Training (Task 1) and Journals Outreach (Task 2) engaging with journal editors, publishers, researchers and data archives with the view of presenting and discussing good practice with various aspects of transparency in social science research, as part of the CESSDA Agenda 2021-22. We welcome participation and input from social scientists, representatives of data archives journal editors and scientific publishers for a lively debate.</i></p>
-
-  <h3>Registration</h3>
-  <p><i>There are limited spaces available and we encourage you to register early to avoid disappointment: <a href="https://cessda-eu.zoom.us/meeting/register/u5cscuGurDIqHtVJspgdGxAG8lRNtUgGn0MA" target="_blank"> Registration form </a> 
-    Please note that this event (including questions and responses) will be recorded.</i><br>
+  <p>In the second part, we will present in-depth the processes, policies and tools implemented for facilitating transparent research in the social sciences. The presenters will discuss the processes that need to be in place for an open research cycle, the role of data archives and repositories in sharing research data and materials, tools for reproducing research findings in practice, collaborations between archives and social science journals, and implementing Transparency and Openness Promotion Guidelines in different social science disciplines. The event will conclude with wider reflections on the progress of social science research transparency and the way forward.</p>
     
-  <h3>Programme <i>(draft)</i></h3>
+<h3>Programme</h3>
   <p>
-  <b>13:30-14:00  Part 1: “Introduction"</b> <br>
+  <b>13:30-14:00 Part 1: Introduction. Conceptual basis</b> <br>
   <ul>
-    13:30-14:00	Welcome and Introduction: <i><b>Sergeja Masten & Sonja Bezjak</b>, @fdv.uni-lj.si</i> <br>
-    14:00-14:30	Definitions and Introduction to 2nd part: <i><b>Marijana Glavica & Denis Vlašiček</b>, Croatian Social Science Data Archive</i> <br>
+    Introduction to Research Data Publishing <i>Sonja Bezjak and Sergeja Masten (Slovenian Social Science Data Archives - ADP)</i> <br>
+    Elements of research transparency <i>Marijana Glavica and Denis Vlašiček (Croatian Social Science Data Archives - CROSSDA)</i> <br>
   </ul>
   <p>
-  14:30-14:45	<i>Short break</i> <br>
+  14:30-14:45	<i>Break</i> <br>
   <p>
   <b>14:45-16:25  Part 2: “Transparency in practice” <i>Moderator: S.Alvanides</b>, <a href="https://www.gesis.org/en/institute/departments/data-services-for-the-social-sciences" target="_blank">GESIS</a></i> <br>
   <ul>
