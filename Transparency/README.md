@@ -13,26 +13,24 @@
   <p>
   <b>13:30-14:00 Part 1: Introduction. Conceptual basis</b> <br>
   <ul>
-    Introduction to Research Data Publishing <i>Sonja Bezjak and Sergeja Masten (Slovenian Social Science Data Archives - ADP)</i> <br>
-    Elements of research transparency <i>Marijana Glavica and Denis Vlašiček (Croatian Social Science Data Archives - CROSSDA)</i> <br>
+    <b>Introduction to Research Data Publishing</b> <i>Sonja Bezjak and Sergeja Masten (Slovenian Social Science Data Archives - ADP)</i> <br>
+    <b>Elements of research transparency</b> <i>Marijana Glavica and Denis Vlašiček (Croatian Social Science Data Archives - CROSSDA)</i> <br>
   </ul>
   <p>
   14:30-14:45	<i>Break</i> <br>
   <p>
-  <b>14:45-16:25  Part 2: “Transparency in practice” <i>Moderator: S.Alvanides</b>, <a href="https://www.gesis.org/en/institute/departments/data-services-for-the-social-sciences" target="_blank">GESIS</a></i> <br>
+  <b>14:45-16:45 Part 2: Transparency in practice</b> <i>Chair: S.Alvanides</b>, <a href="https://www.gesis.org/en/institute/departments/data-services-for-the-social-sciences" target="_blank">GESIS</a></i> <br>
   <ul>
-    <b><a href="mailto:rr@leibniz-psychology.org">Roland Ramthun</a></b>, Head of archiving and publication services 
-      <a href="https://leibniz-psychology.org/en/staff/profile-roland-ramthun" target="_blank">Leibniz-Institut für Psychologie (ZPID)</a> <br>
-      <i>Implementation of an open-science research cycle model at ZPID.</i><br>
-    <b><a href="mailto:peter.doorn@dans.knaw.nl">Peter Doorn & Leen Breure</a></b>, Scientific Advisors,
-      <a href="https://dans.knaw.nl" target="_blank">Data Archiving and Networked Services (DANS)</a> <br>
-      <i>Showcasing research data in archives, repositories and data journals: Why we need more than just catalogues, metadata and plain articles.</i><br>
-    <b><a href="mailto:jonas.recker@gesis.org">Jonas Recker</a></b>, Data Services for the Social Sciences, GESIS <br>
-      <i>More openness in research: an Open Science collaboration between GESIS and the journal Zeitschrift für Soziologie.</i><br>
-    <b><a href="mailto:heuberger.simon@gmail.com">Simon Heuberger</a></b>, Research Scientist, TU München & Replicator for <i>Political Analysis</i> <br>
-      <i>Insufficiencies in Data Material or How (Not) to Replicate: A Walk-Through of a Real Replication Case for Political Analysis.</i><br>
-    <b><a href="mailto:caroline.sutton@informa.com">Caroline Sutton</a></b>, Director of Open Research, Taylor & Francis <br>
-      <i>Implementing the TOP Guidelines for a social science journal.</i><br>
+  <b>Implementation of an open-science research cycle model at ZPID</b>
+    <i><a href="mailto:rr@leibniz-psychology.org">Roland Ramthun</a>, Head of archiving and publication services<a href="https://leibniz-psychology.org/en/staff/profile-roland-ramthun" target="_blank">Leibniz-Institut für Psychologie (ZPID)</a></i> <br>
+  <b>Showcasing Research Data in Archives, Repositories and Data Journals</b> 
+    <i><a href="mailto:peter.doorn@dans.knaw.nl">Peter Doorn & Leen Breure</a></b>, Scientific Advisors, <a href="https://dans.knaw.nl" target="_blank">Data Archiving and Networked Services (DANS)</a></i> <br>
+  <b>Replikationsserver.de: A GESIS service for publishing replication packages</b>
+    <i><a href="mailto:jonas.recker@gesis.org">Jonas Recker</a></b>, Data Services for the Social Sciences, GESIS</i> <br>
+  <b>Insufficiencies in Data Material or How (Not) to Replicate</b>
+    <i><a href="mailto:heuberger.simon@gmail.com">Simon Heuberger</a></b>, Research Scientist, TU München & Replicator for <i>Political Analysis</i> <br>
+  <b>TOP Guidelines at Taylor & Francis</b>
+    <i><a href="mailto:caroline.sutton@informa.com">Caroline Sutton</a></b>, Director of Open Research, Taylor & Francis</i> <br>
   <p><br>
-  <b>16:25-16:45	Discussion and Closure: <i><b>S. Alvanides</b>, GESIS</i><b>
+  <b>16:25-16:45 Discussion and Closure<b> </i>Moderator: S. Alvanides</b>, GESIS</i><b>
   </ul>  
