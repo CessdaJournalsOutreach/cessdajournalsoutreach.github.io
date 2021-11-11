@@ -17,9 +17,9 @@
     <b>Elements of research transparency</b> <i>Marijana Glavica and Denis Vlašiček (Croatian Social Science Data Archives - CROSSDA)</i> <br>
   </ul>
   <p>
-  14:30-14:45	<i>Break</i> <br>
+  <b><i>14:30-14:45 Break</b></i> <br>
   <p>
-  <b>14:45-16:45 Part 2: Transparency in practice</b> <i>Chair: S.Alvanides</b>, <a href="https://www.gesis.org/en/institute/departments/data-services-for-the-social-sciences" target="_blank">GESIS</a></i> <br>
+  <b>14:45-16:45 Part 2: Transparency in practice</b>
   <ul>
   <b>Implementation of an open-science research cycle model at ZPID</b>
     <i><a href="mailto:rr@leibniz-psychology.org">Roland Ramthun</a>, Head of archiving and publication services<a href="https://leibniz-psychology.org/en/staff/profile-roland-ramthun" target="_blank">Leibniz-Institut für Psychologie (ZPID)</a></i> <br>
@@ -32,5 +32,5 @@
   <b>TOP Guidelines at Taylor & Francis</b>
     <i><a href="mailto:caroline.sutton@informa.com">Caroline Sutton</a></b>, Director of Open Research, Taylor & Francis</i> <br>
   <p><br>
-  <b>16:25-16:45 Discussion and Closure<b> </i>Moderator: S. Alvanides</b>, GESIS</i><b>
+  <b>16:25-16:45 Discussion and Closure<b> <i>Moderator: S. Alvanides, <a href="https://www.gesis.org/en/institute/departments/data-services-for-the-social-sciences" target="_blank">GESIS</a></i> <br>
   </ul>  
