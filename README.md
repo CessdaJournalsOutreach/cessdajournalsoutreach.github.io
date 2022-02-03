@@ -20,14 +20,15 @@ An increasing number of academic journals are requiring the deposit of the data 
 - DCS, Serbia: Jelena Banovic <br>
 
 ### Activities and Events
-**Forthcoming event: "Making Social Science Research Transparent"** <br>
+**Previous event: Making Social Science Research Transparent** <br>
 _Thursday 11th November 2021, 13:30-16:45 CET online (zoom)_ <br>
 <a href="https://www.cessda.eu/Training/Event-Calendar/Making-Social-Science-Research-Transparent" target="_blank">https://www.cessda.eu/Training/Event-Calendar/Making-Social-Science-Research-Transparent</a> <br>
-To receive more information, please join our mailing list (see above) <br>
 <br>
 **Open forum: Challenges of sharing data linked to publications** <br>
 _Wednesday 30th June 2021, 13:00-16:00 CET online (zoom)_ <br>
-<a href="https://cessdajournalsoutreach.github.io/OpenForum" target="_blank">https://cessdajournalsoutreach.github.io/OpenForum</a>
+<a href="https://cessdajournalsoutreach.github.io/OpenForum" target="_blank">https://cessdajournalsoutreach.github.io/OpenForum</a> <br>
+<br>
+To receive more information, please join our mailing list (see above) 
 <br>
 
 <!--
