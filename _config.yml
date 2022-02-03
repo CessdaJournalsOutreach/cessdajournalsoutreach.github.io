@@ -4,15 +4,16 @@ logo: Cessda_logo_grey_footer.png
 description: Agenda 2021-22 (Training Task 2)
 
 description: <h3><a href="https://www.cessda.eu/About" target="_blank"> Agenda 2021-22 (Training Task 2)</a></h3>
-             <b>Workshop "Making Social Science Research Transparent"</b>
+             <p><b>Workshop "Making Social Science Research Transparent"</b>
              <i>Thursday 11th November 2021, 13:30-16:45 CET online</i>
              <b>Event completed - <a href="https://www.cessda.eu/Training/Event-Calendar/Making-Social-Science-Research-Transparent" target="_blank"> More information</a></b>
-             <br>
-             <b>Open forum "Challenges of sharing data linked to publications"</b>
+             </p>
+             <p><b>Open forum "Challenges of sharing data linked to publications"</b>
              <i>Wednesday 30th June 2021, 13:00-15:50 CET online</i>
              <b>Event completed - <a href="https://cessdajournalsoutreach.github.io/OpenForum" target="_blank"> More information</a></b>
-             <br>
-             To receive updates, please join our mailing list!
+             </p>
+             <p>To receive updates, please join our mailing list!
+             </p>
 theme: jekyll-theme-minimal
 show_downloads: false
 footer: false
